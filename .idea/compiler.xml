@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hudi-common" />
+        <module name="hudi-datahub-sync-bundle" />
+        <module name="hudi-examples-java" />
+        <module name="hudi-spark-bundle_2.11" />
+        <module name="hudi-java-client" />
+        <module name="hudi-hadoop-mr" />
+        <module name="hudi-cli" />
+        <module name="hudi-spark2-common" />
+        <module name="hudi-utilities-slim-bundle_2.11" />
+        <module name="hudi-client-common" />
+        <module name="hudi-examples-common" />
+        <module name="hudi-utilities_2.11" />
+        <module name="hudi-presto-bundle" />
+        <module name="hudi-flink1.14-bundle_2.11" />
+        <module name="hudi-dla-sync" />
+        <module name="hudi-examples-spark" />
+        <module name="hudi-spark-common_2.11" />
+        <module name="hudi-spark-client" />
+        <module name="hudi-flink-client" />
+        <module name="hudi-flink1.14.x" />
+        <module name="hudi-utilities-bundle_2.11" />
+        <module name="hudi-flink1.13.x" />
+        <module name="hudi-trino-bundle" />
+        <module name="hudi-sync-common" />
+        <module name="hudi-examples-flink" />
+        <module name="hudi-gcp-bundle" />
+        <module name="hudi-gcp" />
+        <module name="hudi-hadoop-mr-bundle" />
+        <module name="hudi-kafka-connect" />
+        <module name="hudi-hive-sync" />
+        <module name="hudi-spark_2.11" />
+        <module name="hudi-aws" />
+        <module name="hudi-datahub-sync" />
+        <module name="hudi-hive-sync-bundle" />
+        <module name="hudi-timeline-service" />
+        <module name="hudi-kafka-connect-bundle" />
+        <module name="hudi-spark2_2.11" />
+        <module name="hudi-flink" />
+        <module name="hudi-timeline-server-bundle" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
